@@ -19,11 +19,8 @@ This project focuses on:
 Alongside the YouTube Data API, we implemented **web scraping** techniques to gather additional comments and metadata from YouTube videos where API access was limited.  
 
 This involved:  
-- Using **BeautifulSoup** and **Selenium** for scraping comments dynamically.  
 - Extracting video titles, comment text, timestamps, and like counts.  
 - Cleaning and structuring scraped data for analysis in Spark.  
-
-This dual data collection approach (API + Scraping) ensured **richer, more diverse datasets** for accurate sentiment and hate speech classification.
 
 
 ## 📊 Dataset  
