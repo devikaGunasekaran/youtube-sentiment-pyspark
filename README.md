@@ -29,4 +29,9 @@ This project uses the **Davidson Hate Speech and Offensive Language Dataset**, w
 | **NLTK** | Natural language text preprocessing (tokenization, stopword removal, etc.) |
 | **Scikit-learn** | Model evaluation and metric computation |
 
+## 📸 Sneak Peak
+<img width="1920" height="1008" alt="Screenshot 2025-10-18 072003" src="https://github.com/user-attachments/assets/2a3a2173-3a13-46c5-9111-466a90f4ebfc" />
+
+<img width="1920" height="901" alt="Screenshot 2025-10-18 072439" src="https://github.com/user-attachments/assets/26ff1c18-8f28-4a6c-8424-fe77d645aef2" />
+
 
